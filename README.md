@@ -10,4 +10,4 @@
 
 ## ✉ Contact me ✉
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dalek1568@gmail.com)](mailto:dalek1568@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:dalek1568@gmail.com)](mailto:dalek1568@gmail.com)
